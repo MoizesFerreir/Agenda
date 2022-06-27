@@ -6,3 +6,5 @@ Durante as aulas coloco em pratica tudo oque aprendi nesse projeto.
 
 ### Aulas através da plataforma Dio.
 Curso introdutório ao Django!.
+
+[link do curso](https://web.dio.me/course/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/learning/d1e01e99-4468-4119-8962-82e5ea80b118/) 
