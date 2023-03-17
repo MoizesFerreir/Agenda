@@ -2,6 +2,8 @@
 Uma agenda usando o framework Django.
 
 ## 1. implementado tela de login, autenticação e logout.
+  * Aqui temos a possibilidade de fazer o login com a conta administrativa, que efetuado a validação de credenciais, será levado a área do administrador.
+  * A área do ADM e Usuario são completamente diferentes(vou colocar imagens para demonstrar).
 <br>
 
 ![2023-02-27 (3)](https://user-images.githubusercontent.com/91918988/221654823-86e773e9-5014-418b-8038-e990de12ebbe.png)
